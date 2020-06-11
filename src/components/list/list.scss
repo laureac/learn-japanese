@@ -1,0 +1,40 @@
+ul{
+        list-style: none;
+        display: flex;
+        padding: 0;
+        @media (max-width: 600px){
+           display: block; 
+           margin: 0;
+           padding: 0;
+        }
+    .block{
+        width: 20%;
+        padding-right: 7em;
+        @media (max-width: 800px){ 
+            width: 30%;
+            padding-right: 30px;
+         }
+        @media (max-width: 600px){ 
+            box-sizing: border-box;
+             width: 100%;
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             justify-content: center;
+             padding: 20px;
+         }
+        .icon{
+            width: 50px;
+        }
+        p{
+            font-size: 15px;
+            font-family: 'Lato', sans-serif;
+            line-height: 1.5em;
+            margin-top: 1.5em;
+            .bold{
+                display: inline-block;
+                font-weight: bold;
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+.btn{
+    font-family: 'Lato', sans-serif;
+    padding: 1em;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #FBF1C3;
+    background-color: #372E7F;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 700;
+    font-size: 13px;
+    @media (max-width: 600px){ 
+        font-size: 20px;
+     }
+    
+}
+.btn-transparant{
+    border: solid black 1px;
+    background: none;
+    color: black;
+}
