@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learn-japanese/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/learn-japanese/static/js/main.128ef0ed.chunk.js",
-    "main.js.map": "/learn-japanese/static/js/main.128ef0ed.chunk.js.map",
+    "main.js": "/learn-japanese/static/js/main.72aee5ca.chunk.js",
+    "main.js.map": "/learn-japanese/static/js/main.72aee5ca.chunk.js.map",
     "runtime-main.js": "/learn-japanese/static/js/runtime-main.670e34fe.js",
     "runtime-main.js.map": "/learn-japanese/static/js/runtime-main.670e34fe.js.map",
     "static/js/2.e8d99bac.chunk.js": "/learn-japanese/static/js/2.e8d99bac.chunk.js",
     "static/js/2.e8d99bac.chunk.js.map": "/learn-japanese/static/js/2.e8d99bac.chunk.js.map",
     "index.html": "/learn-japanese/index.html",
-    "precache-manifest.c1b90a7f2586f0fe60d3c3dc931a58e2.js": "/learn-japanese/precache-manifest.c1b90a7f2586f0fe60d3c3dc931a58e2.js",
+    "precache-manifest.c5829b0a6889c4e4a42cce5cfab822b3.js": "/learn-japanese/precache-manifest.c5829b0a6889c4e4a42cce5cfab822b3.js",
     "service-worker.js": "/learn-japanese/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/learn-japanese/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.e8d99bac.chunk.js.LICENSE.txt": "/learn-japanese/static/js/2.e8d99bac.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.670e34fe.js",
     "static/js/2.e8d99bac.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.128ef0ed.chunk.js"
+    "static/js/main.72aee5ca.chunk.js"
   ]
 }

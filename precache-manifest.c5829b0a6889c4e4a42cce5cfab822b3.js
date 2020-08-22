@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0a09d58437b08e6ea13ed316bd23dbe",
+    "revision": "ea8a298fef09c2e50296477473d317b3",
     "url": "/learn-japanese/index.html"
   },
   {
-    "revision": "268decc96752e436e58b",
+    "revision": "f7b14986cea5a9d64806",
     "url": "/learn-japanese/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learn-japanese/static/js/2.e8d99bac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "268decc96752e436e58b",
-    "url": "/learn-japanese/static/js/main.128ef0ed.chunk.js"
+    "revision": "f7b14986cea5a9d64806",
+    "url": "/learn-japanese/static/js/main.72aee5ca.chunk.js"
   },
   {
     "revision": "3535b387d38ccd364223",
